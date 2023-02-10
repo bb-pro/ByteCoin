@@ -85,7 +85,7 @@
                             </pickerView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="0.38294923310000001" green="0.37643727659999998" blue="0.6155025959" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.44129042454454553" green="0.60307948449163551" blue="0.6155025959" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="iih-3R-Xu5" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="70" id="0vu-dh-bJg"/>
                             <constraint firstItem="iih-3R-Xu5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="5" id="6aA-Es-ggL"/>
